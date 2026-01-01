@@ -10,34 +10,51 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ======= PREMIUM ABOUT ME ======= -->
 
-<h1 align="center">⚡ Hey, I'm Atharva Kadam ⚡</h1>
+<h1 align="center">Hi, I'm Atharva Kadam 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%2B+Node.js+Enthusiast;Building+Cool+Things+with+Code;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=6AE3FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Focused+on+Clean+Code+%26+Performance" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Life-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-7CFF00?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Problem-Solver-FF007F?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Professional%20Developer-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lifelong-Learner-0A0A0A?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-```js
-const atharva = {
-  role: "Full-Stack Developer",
-  code: ["JavaScript", "React", "Node.js", "MongoDB"],
-  passions: ["Web Development", "Cybersecurity", "Open Source"],
-  mindset: "Build • Break • Learn • Repeat",
-  funFact: "I turn coffee into scalable apps ☕⚙️"
-};
+I’m a **Full-Stack Developer** who enjoys building **modern, reliable, and scalable web applications**.  
+I focus on **clean architecture**, **performance**, and **user-friendly experiences**.
+
+I believe great software is built at the intersection of **design, logic, and consistency**.
+
+---
+
+### 🛠 Core Skills
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express, MongoDB  
+- **Tools:** Git, GitHub, REST APIs, Cloud Deployment  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Write code that is simple, scalable, and built to last.”</i>
+</p>
+
+<!-- ======= END ABOUT ME ======= -->
 
 
 

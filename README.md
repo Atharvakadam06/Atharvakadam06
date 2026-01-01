@@ -105,4 +105,28 @@ I believe great software is built at the intersection of **design, logic, and co
 
 
 ---
+<!-- ===== CONTACT SECTION ===== -->
+
+<h2 align="center">📫 Let’s Connect</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=6AE3FF&center=true&vCenter=true&width=520&lines=Open+to+Collaboration;Open+to+Learning;Open+to+Opportunities" />
+</p>
+
+<p align="center">
+  <a href="mailto:atharvakadam336@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
+ 
+  <a href="https://github.com/Atharvakadam06">
+    <img src="https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    I enjoy collaborating on meaningful projects, sharing knowledge, and building impactful software.
+  </sub>
+</p>
+
+<!-- ===== END CONTACT ===== -->
 

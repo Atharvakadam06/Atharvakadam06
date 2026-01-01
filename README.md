@@ -26,7 +26,7 @@
 
 ---
 
-## 🌌 Contribution Snake (Dark/Light Auto)
+## 🌌 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"

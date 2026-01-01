@@ -1,59 +1,41 @@
-<!-- Banner -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Atharva%20Kadam&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Atharva%20Kadam&height=90&fontSize=44&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=React+Developer;Node.js+%7C+MongoDB;Building+Cool+Web+Apps;Always+Learning+New+Tech" />
+  <b>Full Stack Developer · React · Node.js · MongoDB</b>
 </p>
 
----
-
-## 🧑‍💻 About Me
-- 💡 Passionate about **Full Stack Web Development**
-- ⚛️ Frontend: **React.js**
-- 🌐 Backend: **Node.js, Express**
-- 🗄️ Database: **MongoDB**
-- 🔥 Love building **real-world projects**
-- 📈 Constantly improving & learning
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+real-world+web+apps;Clean+UI+%7C+Scalable+Backends;Always+learning+new+tech" />
 </p>
 
 ---
 
-## 🧪 Dev Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Atharvakadam06?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Atharvakadam06?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blueviolet?style=for-the-badge" />
-</p>
-
-
-
-
-
+## 👨‍💻 About
+- ⚛️ React-first frontend developer  
+- 🌐 Node.js, Express, MongoDB backend  
+- 🧠 Focused on **real products**, not tutorials  
+- 🚀 Improving every day with hands-on projects  
 
 ---
 
-## 🌐 Connect With Me
+## 🧰 Tech Stack
 <p align="center">
-  <a href="https://github.com/Atharvakadam06">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode&perline=5" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Developer Metrics (TOP 1%)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharvakadam06/Atharvakadam06/main/github-metrics.svg" />
+</p>
 
+---
+
+## 🐍 Contribution Snake (Dark / Light Auto)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -62,4 +44,24 @@
   </picture>
 </p>
 
+---
 
+## 🌌 3D Contribution Graph
+<p align="center">
+  <img src="https://github.com/Atharvakadam06/Atharvakadam06/raw/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## 🧭 Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-0db7ed?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-3c873a?style=for-the-badge&logo=node.js" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Clean code. Real projects. Consistent growth.</sub>
+</p>

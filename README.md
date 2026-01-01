@@ -77,13 +77,26 @@ I believe great software is built at the intersection of **design, logic, and co
 </p>
 
 ---
-## 📊 GitHub Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakadam06&theme=github" />
+<!-- ===== PROFESSIONAL GITHUB METRICS ===== -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharvakadam06&theme=github" />
+<h2 align="center">📊 Developer Analytics</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharvakadam06&theme=github&utcOffset=5.5" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakadam06&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharvakadam06&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharvakadam06&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharvakadam06&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharvakadam06&theme=github_dark&utcOffset=5.5" width="45%" />
+</p>
+
+<!-- ===== END METRICS ===== -->
 
 
 ---

@@ -132,32 +132,30 @@ I believe great software is built at the intersection of **design, logic, and co
 ---
 ---
 
-<!-- Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding+%F0%9F%9A%80;Building+Cool+Things+One+Commit+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Inter&
+size=16&
+duration=3500&
+pause=1000&
+color=6B7280&
+center=true&
+vCenter=true&
+width=420&
+lines=Thanks+for+stopping+by.;Open+to+collaboration.;Always+learning%2C+always+building." />
 </p>
 
-<!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharvakadam06/Atharvakadam06/output/github-contribution-grid-snake-dark.svg" />
+  <sub>
+    © 2026 · Atharva Kadam · Software Developer
+  </sub>
 </p>
 
-<!-- Stats Row -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharvakadam06&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Atharvakadam06?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/Atharvakadam06?label=Stars&style=flat&color=0e75b6" />
-</p>
 
-<!-- Signature -->
-<p align="center">
-  <b>✨ Crafted with ❤️ by Atharva Kadam ✨</b>
-</p>
 
 ---
 

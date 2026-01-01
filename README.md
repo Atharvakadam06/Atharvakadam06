@@ -77,23 +77,14 @@ I believe great software is built at the intersection of **design, logic, and co
 </p>
 
 ---
+## 📊 GitHub Metrics
 
-<h2 align="center">📊 GitHub Stats</h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakadam06&theme=github" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharvakadam06&show_icons=true&count_private=true&hide_border=true" width="420"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharvakadam06&theme=github" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvakadam06&layout=compact&hide_border=true" width="420"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharvakadam06&theme=github&utcOffset=5.5" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharvakadam06&hide_border=true" width="420"/>
-</p>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atharvakadam06" />
 
 ---
 

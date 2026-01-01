@@ -132,26 +132,34 @@ I believe great software is built at the intersection of **design, logic, and co
 ---
 ---
 
+<!-- Soft Gradient Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:111827&height=2"/>
 </p>
 
+<!-- Calm Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
 font=Inter&
 size=16&
-duration=3500&
-pause=1000&
-color=6B7280&
+duration=4200&
+pause=1400&
+color=9CA3AF&
 center=true&
 vCenter=true&
-width=420&
-lines=Thanks+for+stopping+by.;Open+to+collaboration.;Always+learning%2C+always+building." />
+width=460&
+lines=Designing+systems%2C+not+just+code.;Focused+on+clarity%2C+performance%2C+impact.;Always+building+with+intent." />
 </p>
 
+<!-- Minimal Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharvakadam06&label=views&color=1F2937&style=flat" />
+</p>
+
+<!-- Signature -->
 <p align="center">
   <sub>
-    © 2026 · Atharva Kadam · Software Developer
+    Atharva Kadam · Software Developer
   </sub>
 </p>
 

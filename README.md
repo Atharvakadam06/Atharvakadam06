@@ -28,15 +28,18 @@
 
 ---
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+## ⚡ Developer Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Followers-Check_Profile-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stars-Growing-yellow?style=for-the-badge">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakadam06&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharvakadam06&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharvakadam06&theme=github_dark" />
+</p>
+
 
 
 

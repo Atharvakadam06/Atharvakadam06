@@ -10,28 +10,35 @@
 
 ---
 
-# 👋 Hey, I'm Atharva Kadam
+<!-- ===================== ABOUT ME ===================== -->
 
-🎯 **Full-Stack Developer | Open-Source Explorer | Tech Geek**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FFAB&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code...;Building+Cool+Web+Apps...;Learning+New+Tech+Everyday..."/>
-</p>
-
-🌱 **Currently Learning:**  
-<code>React.js</code> ⚡ <code>Node.js</code> ⚡ <code>Ethical Hacking</code>  
-
-💻 **Tech Stack:**  
-<code>HTML</code> 🟧 <code>CSS</code> 🟦 <code>JavaScript</code> 🟨 <code>React</code> ⚛️ <code>Node.js</code> 🌐 <code>MongoDB</code> 🍃  
-
-✨ **Fun Facts:**  
-☕ Fueled by coffee  
-🎮 Gamer & Tech Enthusiast  
-🌍 Open-source lover  
+<h1 align="center">⚡ Hey, I'm Atharva Kadam ⚡</h1>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9f0e2f2449d569a7d0d41f3f3f93737d949d5d3f3187a6a4b7a79c7d0c9c1d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53796e7461782d466f722d4f70656e536f757263652d627269676874677265656e3f7374796c653d666c61742d737175617265)" alt="Animated Badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%2B+Node.js+Enthusiast;Building+Cool+Things+with+Code;Always+Learning+Something+New" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Life-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-7CFF00?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Problem-Solver-FF007F?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</p>
+
+---
+
+### 🧠 About Me
+
+```js
+const atharva = {
+  role: "Full-Stack Developer",
+  code: ["JavaScript", "React", "Node.js", "MongoDB"],
+  passions: ["Web Development", "Cybersecurity", "Open Source"],
+  mindset: "Build • Break • Learn • Repeat",
+  funFact: "I turn coffee into scalable apps ☕⚙️"
+};
+
 
 
 ---

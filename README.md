@@ -132,31 +132,31 @@ I believe great software is built at the intersection of **design, logic, and co
 ---
 ---
 
-<!-- Soft Gradient Divider -->
+<!-- Elegant Soft Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:111827&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:334155,100:1E293B&height=90&section=footer"/>
 </p>
 
-<!-- Calm Typing Animation -->
+<!-- Smooth Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
 font=Inter&
-size=16&
-duration=4200&
-pause=1400&
-color=9CA3AF&
+size=17&
+duration=3600&
+pause=1200&
+color=CBD5E1&
 center=true&
 vCenter=true&
-width=460&
-lines=Designing+systems%2C+not+just+code.;Focused+on+clarity%2C+performance%2C+impact.;Always+building+with+intent." />
+width=520&
+lines=Thanks+for+exploring+my+work.;I+enjoy+building+clean%2C+impactful+software.;Let’s+create+something+meaningful." />
 </p>
 
-<!-- Minimal Metrics -->
+<!-- Soft Divider -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharvakadam06&label=views&color=1F2937&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:334155&height=1&width=60%"/>
 </p>
 
-<!-- Signature -->
+<!-- Minimal Signature -->
 <p align="center">
   <sub>
     Atharva Kadam · Software Developer

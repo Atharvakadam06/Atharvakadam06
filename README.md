@@ -28,10 +28,12 @@
 
 ---
 
-## ⚡ Developer Metrics
+## 🧪 Dev Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharvakadam06/Atharvakadam06/main/github-metrics.svg" />
+  <img src="https://img.shields.io/github/followers/Atharvakadam06?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Atharvakadam06?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blueviolet?style=for-the-badge" />
 </p>
 
 

@@ -60,9 +60,14 @@ I believe great software is built at the intersection of **design, logic, and co
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Technologies & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,git,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <i>Focused on building reliable, scalable, and user-centric applications.</i>
 </p>
 
 ---

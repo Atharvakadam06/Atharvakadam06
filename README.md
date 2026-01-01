@@ -44,10 +44,24 @@
 
 ---
 
-## 🌌 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/Atharvakadam06/Atharvakadam06/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="650" />
-</p>
+<svg width="650" height="240" viewBox="0 0 650 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="650" height="240" rx="12" fill="#0D1117"/>
+  <text x="32" y="42" fill="#58D68D" font-family="Inter, sans-serif" font-size="24" font-weight="600">
+    3D Contribution Graph
+  </text>
+
+  <!-- 3D Blocks (simulated contributions) -->
+  <g>
+    <!-- Row 1 -->
+    <rect x="32" y="80" width="16" height="16" rx="3" fill="#39FF14"/>
+    <rect x="56" y="80" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="80" y="80" width="16" height="16" rx="3" fill="#FF00FF"/>
+    <rect x="104" y="80" width="16" height="16" rx="3" fill="#39FF14"/>
+    <rect x="128" y="80" width="16" height="16" rx="3" fill="#00FFFF"/>
+
+    <!-- Row 2 -->
+    <rect x="32" y="104" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="56" y="1
 
 ---
 

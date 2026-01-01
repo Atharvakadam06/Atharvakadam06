@@ -28,17 +28,12 @@
 
 ---
 
-
-## 📊 Developer Dashboard
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakadam06&theme=github_dark" />
-</p>
+## ⚡ Developer Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharvakadam06&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharvakadam06&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/Atharvakadam06/Atharvakadam06/main/github-metrics.svg" />
 </p>
+
 
 
 

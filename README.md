@@ -93,6 +93,7 @@ I believe great software is built at the intersection of **design, logic, and co
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Atharvakadam06" />
 
 ---
 

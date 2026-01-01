@@ -1,24 +1,57 @@
-<!-- ================= HERO SECTION ================= -->
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Atharva%20Kadam&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Atharva+Kadam+👋;Full+Stack+Developer;React+•+Node.js+•+MongoDB;Building+Scalable+and+Modern+Web+Apps" />
+<h2 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h2>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Atharvakadam06&label=Profile%20Views&color=38bdf8&style=flat-square"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=React+Developer;Node.js+%7C+MongoDB;Building+Cool+Web+Apps;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
+- 💡 Passionate about **Full Stack Web Development**
+- ⚛️ Frontend: **React.js**
+- 🌐 Backend: **Node.js, Express**
+- 🗄️ Database: **MongoDB**
+- 🔥 Love building **real-world projects**
+- 📈 Constantly improving & learning
 
-```js
-const developer = {
-  name: "Atharva Kadam",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  stack: ["React", "Node.js", "MongoDB", "Express"],
-  focus: ["Clean UI", "Scalable Backend", "Security"],
-  mindset: "Build → Break → Learn → Repeat"
-};
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharvakadam06&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakadam06&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Atharvakadam06">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Atharvakadam06/Atharvakadam06/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+</p>

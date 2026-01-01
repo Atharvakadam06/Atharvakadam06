@@ -129,4 +129,8 @@ I believe great software is built at the intersection of **design, logic, and co
 </p>
 
 <!-- ===== END CONTACT ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding+%F0%9F%9A%80;Let's+Build+Something+Awesome+Together" />
+</p>
+
 

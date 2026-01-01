@@ -44,35 +44,30 @@
 
 ---
 
-<svg width="650" height="240" viewBox="0 0 650 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="650" height="240" rx="12" fill="#0D1117"/>
-  <text x="32" y="42" fill="#58D68D" font-family="Inter, sans-serif" font-size="24" font-weight="600">
+<svg width="650" height="200" viewBox="0 0 650 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="650" height="200" rx="12" fill="#0D1117"/>
+  
+  <text x="32" y="28" fill="#58D68D" font-family="Inter, sans-serif" font-size="20" font-weight="600">
     3D Contribution Graph
   </text>
 
-  <!-- 3D Blocks (simulated contributions) -->
-  <g>
+  <!-- Simulated 3D contribution cubes -->
+  <g transform="translate(32,50)">
     <!-- Row 1 -->
-    <rect x="32" y="80" width="16" height="16" rx="3" fill="#39FF14"/>
-    <rect x="56" y="80" width="16" height="16" rx="3" fill="#00FFFF"/>
-    <rect x="80" y="80" width="16" height="16" rx="3" fill="#FF00FF"/>
-    <rect x="104" y="80" width="16" height="16" rx="3" fill="#39FF14"/>
-    <rect x="128" y="80" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#39FF14"/>
+    <rect x="20" y="0" width="16" height="16" rx="3" fill="#58D68D"/>
+    <rect x="40" y="0" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="60" y="0" width="16" height="16" rx="3" fill="#FF00FF"/>
+    <rect x="80" y="0" width="16" height="16" rx="3" fill="#39FF14"/>
 
     <!-- Row 2 -->
-    <rect x="32" y="104" width="16" height="16" rx="3" fill="#00FFFF"/>
-    <rect x="56" y="1
+    <rect x="0" y="20" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="20" y="20" width="16" height="16" rx="3" fill="#39FF14"/>
+    <rect x="40" y="20" width="16" height="16" rx="3" fill="#FF00FF"/>
+    <rect x="60" y="20" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="80" y="20" width="16" height="16" rx="3" fill="#58D68D"/>
 
----
-
-## 🏷 Focus & Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack-58D68D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-0db7ed?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-3c873a?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-4CAF50?style=for-the-badge&logo=mongodb" />
-</p>
-
----
-
-<sub align="center">Focused on elegant, smooth, and functional web experiences with modern design and animations.</sub>
+    <!-- Row 3 -->
+    <rect x="0" y="40" width="16" height="16" rx="3" fill="#FF00FF"/>
+    <rect x="20" y="40" width="16" height="16" rx="3" fill="#00FFFF"/>
+    <rect x="40" y="40" width="16" height="16"

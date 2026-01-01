@@ -30,13 +30,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js;Always+Learning+New+Things" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharvakadam06&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Followers-Check_Profile-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stars-Growing-yellow?style=for-the-badge">
 </p>
+
 
 
 ---

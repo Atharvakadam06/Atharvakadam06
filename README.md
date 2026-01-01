@@ -130,13 +130,14 @@ I believe great software is built at the intersection of **design, logic, and co
 
 <!-- ===== END CONTACT ===== -->
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding+%F0%9F%9A%80;Let's+Build+Something+Awesome+Together" />
-</p>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharvakadam06&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Atharva Kadam</b>
 </p>
 
 

@@ -1,22 +1,24 @@
+<!-- ================= HERO SECTION ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Your+Name+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+cool+things+on+the+web" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Atharva+Kadam+👋;Full+Stack+Developer;React+•+Node.js+•+MongoDB;Building+Scalable+and+Modern+Web+Apps" />
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Atharvakadam06&label=Profile%20Views&color=38bdf8&style=flat-square"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
 ```js
-const me = {
-  name: "Your Name",
+const developer = {
+  name: "Atharva Kadam",
   role: "Full Stack Developer",
   location: "India 🇮🇳",
-  techStack: ["React", "Node.js", "MongoDB", "Express"],
-  interests: ["System Design", "Security", "Scalable Apps"],
-  quote: "Build. Break. Learn. Repeat."
+  stack: ["React", "Node.js", "MongoDB", "Express"],
+  focus: ["Clean UI", "Scalable Backend", "Security"],
+  mindset: "Build → Break → Learn → Repeat"
 };
-

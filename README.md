@@ -78,10 +78,39 @@ I believe great software is built at the intersection of **design, logic, and co
 
 ---
 
-## 📊 GitHub Metrics
+<!-- ===================== GITHUB METRICS ===================== -->
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharvakadam06/Atharvakadam06/main/github-metrics.svg" width="650" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Atharvakadam06&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=6AE3FF&icon_color=6AE3FF&text_color=FFFFFF" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvakadam06&layout=compact&hide_border=true&theme=transparent&title_color=6AE3FF&text_color=FFFFFF" 
+    height="165"
+  />
 </p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Atharvakadam06&hide_border=true&background=00000000&ring=6AE3FF&fire=6AE3FF&currStreakLabel=6AE3FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Atharvakadam06&theme=algolia&no-frame=true&row=1&column=6"
+  />
+</p>
+
+<!-- =================== END METRICS =================== -->
+
 
 ---
 

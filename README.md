@@ -54,4 +54,9 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharvakadam06/Atharvakadam06/output/github-contribution-grid-snake.svg" />
+</p>
 
